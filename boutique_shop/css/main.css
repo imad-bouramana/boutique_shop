@@ -1,0 +1,143 @@
+body{
+	margin-top: 50px;
+}
+#headerWrapear{
+	background-image: url(../images/headerLogo/background.png);
+	height: 600px;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top center;
+	background-size: 100% 700px
+}
+#logotext{
+	position: absolute;
+	top: 60%;
+	margin-top: 0;
+	background-image: url(../images/headerLogo/market.png);
+	background-repeat: no-repeat;
+	background-size: 70% 200px;
+	background-position:center;
+	width: 100%;
+	height: 150px;
+	margin-top: -200px
+}
+#child_headerWrapear{
+	background-image: url(../images/headerLogo/background.png);
+	height: 250px;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top center;
+	background-size: 100% 300px
+}
+#child_logotext{
+	position: absolute;
+	top: 70px;
+	margin-top: 0;
+	background-image: url(../images/headerLogo/market.png);
+	background-repeat: no-repeat;
+	background-size: 70% 200px;
+	background-position:center;
+	width: 100%;
+	height: 200px;
+}
+.img-thumb{
+	width: 100%;
+	height: 200px
+}
+.img-responsive{
+	width: auto;
+	height: 250px;
+	margin: 10px auto
+}
+.fouter{
+	margin-top:  40px
+}
+
+.form-group .colon{
+	margin-left: -15px
+}
+/* back brands */
+.table-auto{
+	width: auto;
+	margin: 0 auto;
+}
+#add-product{
+	margin-top: -40px;
+}
+#add-product1{
+	margin-top: -70px;
+}
+.saved_image{
+	text-align: center;
+}
+.saved_image img{
+	width: auto;
+	height: 150px;
+	display: block;
+	margin: auto
+}
+#login_form{
+	width: 50%;
+
+	margin: 10% auto;
+	border: 3px solid #ddd;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 10px 10px 20px rgba(0,0,0, .6);
+	background: #FFF;
+	color: #333
+}
+.left-button{
+	margin-top: 40px
+}
+.table_cart th{
+	text-align: center;
+}
+.successfly{
+	width: 800px;
+	margin: 30px auto;
+	padding: 20px;
+	box-shadow: 10px 10px 20px rgba(0,0,0, .6);
+	border-radius: 20px;
+	background: #ddd;
+	
+}
+
+#recent td, #wedget td{
+	font-size: 12px;
+
+}
+#recent a{
+	padding: 3px
+}
+#recent a:hover{
+	cursor: pointer;
+	text-decoration: none;
+	background: #337ab7;
+	color: #FFF;
+}
+input.sort_price{
+	width: 55px;
+	padding: 0 2px;
+	border-radius: 3px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
